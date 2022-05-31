@@ -4,6 +4,7 @@ title: Luke's Sailing Logbooks
 permalink: /
 header:
   overlay_image: /assets/images/header.jpg
+tagline: My sailing journals and other bits and pieces that interest me about boats and stuff
 ---
 
 # Logbook

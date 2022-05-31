@@ -50,6 +50,14 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.

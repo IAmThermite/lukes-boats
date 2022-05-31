@@ -1,7 +1,9 @@
 ---
-layout: home
+layout: splash
 title: Luke's Sailing Logbooks
 permalink: /
+header:
+  overlay_image: /assets/images/header.jpg
 ---
 
 # Logbook
@@ -25,3 +27,21 @@ I recently purchaced PT862 Mr Jinks so am getting that boat set up and intend to
 The first race is mid June so I'm getting everything set up for that and will break down every race and post them all here.
 I sail other boats too, might have pictures of the naval whaler or if I haven't sold my Farr 3.7 then some of that too.
 If I'm feeling like it I'll also post my Firebug races when I have them.
+
+<hr />
+
+# Latest posts
+
+<!-- https://github.com/mmistakes/minimal-mistakes/blob/master/_layouts/home.html -->
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>

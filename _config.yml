@@ -24,7 +24,8 @@ subtitle: "Self explanatory really..."
 timezone: Pacific/Auckland
 
 # Build settings
-theme: jekyll-theme-cayman
+# theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 
 minimal_mistakes_skin: dark
 

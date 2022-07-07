@@ -3,5 +3,5 @@ main:
     url: /
   - title: "Posts"
     url: /posts/
-  # - title: "Album"
-  #   url: /images/
+  - title: "Album"
+    url: /images/

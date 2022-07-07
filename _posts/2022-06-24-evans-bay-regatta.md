@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Evans Bay Yacht Club Regatta 2022"
+title:  "Evans Bay Yacht Club Regatta 2022 - Day 1"
 date:   2022-06-24
 header:
   overlay_image: /assets/images/eb-regatta-22/IMG20220624111532.jpg
@@ -103,3 +103,4 @@ A terrible upwind leg stuffing up every tack too, not a good race to be honest b
 Bring on the next day of racing.
 
 [Full results](/assets/files/regatta-results/eb-regatta-22-results.pdf)
+[Race Qs link](https://raceqs.com/tv-beta/tv.htm#userId=1188464&boat=Mr%20Jinks&&updatedAt=2022-06-24T04:15:43Z&divisionId=81357&dt=2022-06-24T11:06:12+12:00..2022-06-24T16:15:15+12:00&boat=Mr%20Jinks&model=&iframe=true)
